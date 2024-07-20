@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin-left: 5px;
+    /* color: darkviolet; */
+    text-decoration: none;
+}
+.active{
+    text-decoration: none;
+    color: darkviolet;
+  }
