@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css'; 
 import Layout from './module/Layout';
 import { BrowserRouter, Link, NavLink, Route, Routes } from 'react-router-dom';
-import UserForm from './module/user/UserForm';
-import UserList from './module/user/UserList';
+import UserForm from './module/User/UserForm';
+import UserList from './module/User/UserList';
 const App = () => {
   return (
     <BrowserRouter>   
